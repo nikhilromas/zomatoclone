@@ -1,0 +1,201 @@
+#header {
+  height: 600px;
+  width: 100%;
+  background-image: url(image/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+  background-size: cover;
+  top: auto;
+}
+
+body {
+  margin: 0px;
+}
+.head {
+  width: 45%;
+  height: 200px;
+  padding-left: 55%;
+  padding-top: 2%;
+  display: flex;
+}
+.heading {
+  color: aliceblue;
+  padding: 15px;
+  size: 25px;
+  font-family: "Okra", Helvetica, sans-serif;
+
+  text-decoration: none;
+}
+.center {
+  padding: auto;
+  padding-left: 40%;
+  padding-top: 2%;
+}
+#logo {
+  margin: auto;
+  width: 340px;
+  height: 60px;
+}
+.quots {
+  padding-left: 30%;
+}
+.cap {
+  width: 50rem;
+  color: white;
+  margin: auto;
+  text-align: center;
+  font-size: 3.6rem;
+}
+.capi {
+  width: 50rem;
+  color: white;
+  margin: auto;
+  margin-left: 10%;
+  text-align: center;
+  font-size: 3.6rem;
+}
+.second {
+  width: 100%;
+  height: 300px;
+}
+.secondHeading {
+  width: 65%;
+  height: 80px;
+  padding-left: 35%;
+  padding-top: 2%;
+  display: flex;
+}
+.secondtop {
+  font-size: 40px;
+}
+.image {
+  width: 60px;
+  height: 40px;
+  border-radius: 10%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.paragraph {
+  font-size: 22px;
+  text-align: center;
+  font-weight: lighter;
+}
+.third {
+  display: flex;
+  padding-left: 15%;
+}
+.button {
+  background-color: white;
+  border: 1px ridge gray;
+  color: #0f0f0f;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 15px 13px;
+  cursor: pointer;
+  width: 450px;
+  height: 80px;
+  border-radius: 4px;
+  font-size: 18px;
+  text-align: left;
+}
+.third span {
+  color: gray;
+  margin-left: 45%;
+}
+.country {
+  width: 84%;
+  height: 50px;
+  padding-left: 15%;
+}
+.countries {
+  display: flex;
+  margin-left: 20%;
+}
+.nation {
+  display: flex;
+  width: 400px;
+  height: 40px;
+  margin: 20px;
+  border: 1px ridge gray;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-top: 25px;
+  padding-bottom: 15px;
+  justify-content: space-between;
+}
+.flag {
+  width: 50px;
+  height: 30px;
+  border-radius: 8px;
+}
+.nationName {
+  margin: 5px;
+}
+
+.mainFooter {
+  width: 100%;
+  height: 500px;
+  background-color: rgb(232, 232, 236);
+}
+.footerFrist {
+  width: 100%;
+  height: 150px;
+  display: flex;
+}
+.footerLogo {
+  width: 50%;
+  height: 60px;
+  padding-left: 30%;
+  padding-top: 25px;
+}
+.footerLogo img {
+  width: 100px;
+  height: 40px;
+}
+.count {
+  width: 80px;
+  height: 50px;
+}
+.footoption {
+  display: flex;
+  margin-top: 20px;
+  width: 10%;
+  height: 30px;
+}
+.outer {
+  display: flex;
+}
+.outerfirst {
+  margin-left: 30%;
+}
+.outerfirstA {
+  margin-left: 60px;
+}
+.outerfirstB {
+  margin-left: 80px;
+}
+.outerfirstC {
+  margin-left: 100px;
+}
+.outerfirstD {
+  margin-left: 120px;
+}
+.innerfirstA {
+  display: flex;
+}
+.innerfirstA img {
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+}
+.storemap {
+  width: 150px;
+  display: inline-block;
+}
+
+.storemap img {
+  width: 150px;
+  height: 50px;
+}
+.last {
+  margin-left: 20%;
+  margin-right: 10%;
+}
